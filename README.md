@@ -267,6 +267,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Pranav Nannaware**  
 GitHub: [@NannawarePranav](https://github.com/NannawarePranav)
+
 **Pranav Mahalpure**  
 GitHub: [@PranavMahalpure](https://github.com/PranavMahalpure)
 
